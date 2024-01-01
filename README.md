@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert AKPINAR</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning **JS, Python, MySQL and PHP**
+- 🌱 I’m currently learning **Python, Microsoft SQL, C# and ASP.NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
